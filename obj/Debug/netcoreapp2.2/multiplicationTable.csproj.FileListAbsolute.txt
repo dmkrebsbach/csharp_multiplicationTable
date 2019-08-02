@@ -1,0 +1,11 @@
+/home/dmkrebsbach/CodingDojo/CSharp/multiplicationTable/bin/Debug/netcoreapp2.2/multiplicationTable.deps.json
+/home/dmkrebsbach/CodingDojo/CSharp/multiplicationTable/bin/Debug/netcoreapp2.2/multiplicationTable.runtimeconfig.json
+/home/dmkrebsbach/CodingDojo/CSharp/multiplicationTable/bin/Debug/netcoreapp2.2/multiplicationTable.runtimeconfig.dev.json
+/home/dmkrebsbach/CodingDojo/CSharp/multiplicationTable/bin/Debug/netcoreapp2.2/multiplicationTable.dll
+/home/dmkrebsbach/CodingDojo/CSharp/multiplicationTable/bin/Debug/netcoreapp2.2/multiplicationTable.pdb
+/home/dmkrebsbach/CodingDojo/CSharp/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.csprojAssemblyReference.cache
+/home/dmkrebsbach/CodingDojo/CSharp/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.csproj.CoreCompileInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.AssemblyInfoInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.AssemblyInfo.cs
+/home/dmkrebsbach/CodingDojo/CSharp/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.dll
+/home/dmkrebsbach/CodingDojo/CSharp/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.pdb
